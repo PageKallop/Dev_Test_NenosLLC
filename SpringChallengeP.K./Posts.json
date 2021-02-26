@@ -1,0 +1,102 @@
+{
+  "posts" : [
+    {
+      "id" : "307e33d6-6322-4425-bcbb-cbf40d89db3f",
+      "date" : "2021-02-10T18:25:43.511Z",
+      "longitude" : -122.4765565944199,
+      "latitude" : 37.810855450773026,
+      "isFollowing" : true,
+      "potentialMisinformation" : 0,
+      "caption" : "PROUD.",
+      "tags" : [
+        "pride",
+        "festival",
+        "summer"
+      ]
+    },
+    {
+      "id" : "184d8b52-b204-4682-af06-8ecf86ca1efb",
+      "date" : "2021-02-10T20:36:48.511Z",
+      "longitude" : -122.43885779802554,
+      "latitude" : 37.800620400761034,
+      "isFollowing" : true,
+      "potentialMisinformation" : 0,
+      "caption" : "Eldridge and I stumbled on a neat little burger joint and decided to treat ourselves.",
+      "tags" : [
+        "smile",
+        "food",
+        "summer"
+      ]
+    },
+    {
+      "id" : "64977cca-98dd-4866-bd80-b3a906e78f79",
+      "date" : "2021-02-11T13:01:15.511Z",
+      "longitude" : -122.41122160290163,
+      "latitude" : 37.81065635157501,
+      "isFollowing" : false,
+      "potentialMisinformation" : 0,
+      "caption" : "The sea lions really came for us today!",
+      "tags" : [
+        "wildlife",
+        "outdoors",
+        "summer"
+      ]
+    },
+    {
+      "id" : "79f0ca9c-3166-4b4c-b65b-72e820e0157e",
+      "date" : "2021-02-11T07:00:00.511Z",
+      "longitude" : -122.46621919001716,
+      "latitude" : 37.76981341729065,
+      "isFollowing" : true,
+      "potentialMisinformation" : 2,
+      "caption" : "Went to Academy of Sciences today and found out that microbes in yogurt change the color of your eyes! Wow! Who knew?",
+      "tags" : [
+        "architecture",
+        "food",
+        "science"
+      ]
+    },
+    {
+      "id" : "fefea2d7-42d3-4140-926f-54878c1b8180",
+      "date" : "2021-02-12T09:45:07.511Z",
+      "longitude" : -82.41194980975123,
+      "latitude" : 28.06338180491844,
+      "isFollowing" : true,
+      "potentialMisinformation" : 0,
+      "caption" : "Got our vaccines today!",
+      "tags" : [
+        "smile",
+        "summer",
+        "health"
+      ]
+    },
+    {
+      "id" : "06076c12-63ba-4de1-9be8-930f875cb6fc",
+      "date" : "2021-02-11T11:50:08.511Z",
+      "longitude" : -77.02445477149136,
+      "latitude" : 38.89145120670314,
+      "isFollowing" : false,
+      "potentialMisinformation" : 0,
+      "caption" : "Doesn't Jamir kind of look like this cute lil fossil creature?",
+      "tags" : [
+        "smile",
+        "museum",
+        "couples"
+      ]
+    },
+    {
+      "id" : "4b1b02db-b970-4757-8596-71a163e63b77",
+      "date" : "2021-02-11T11:50:08.511Z",
+      "longitude" : -122.48963326491725,
+      "latitude" : 37.75350727288759,
+      "isFollowing" : false,
+      "potentialMisinformation" : 0,
+      "caption" : "We're open! Come by and have a coffee on us!",
+      "tags" : [
+        "coffee",
+        "summer",
+        "food"
+      ]
+    }
+  ]
+}
